@@ -3,3 +3,4 @@ SQLAlchemy>=2.0,<3
 psycopg[binary]>=3.2,<4
 pandas>=2.2,<3
 streamlit>=1.49,<2
+altair>=5,<7
