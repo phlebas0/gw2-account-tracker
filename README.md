@@ -1,7 +1,5 @@
 # gw2-account-tracker
 
-# gw2-account-tracker
-
 A personal Guild Wars 2 account tracker that automatically collects and stores account data from the official Guild Wars 2 API and visualises it through a browser-based dashboard that can be run locally or hosted in the cloud.
 
 ## How it works
